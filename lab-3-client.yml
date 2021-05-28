@@ -1,2 +1,5 @@
----
-lucky-word: Irish, Rabbit's Foot, Serendipity
+
+# lucky-word: Irish, Rabbit's Foot, Serendipity
+word-config:
+  lucky-word: Irish, Rabbit's Foot, Serendipity
+  preamble: Something preamble
