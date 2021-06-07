@@ -1,0 +1,8 @@
+my:
+  greeting: Hello
+  list: One, Two, Three
+
+db:
+  values: "{connectionString : 'http://________', username: 'username', password: 'password'}"
+  host: localhost
+  db.port: 7777
