@@ -3,6 +3,6 @@ my:
   list: One, Two, Three
 
 db:
-  values: "{connectionString : 'http://________', username: 'username', password: 'password'}"
+  values: Provied for refresh
   host: localhost
   port: 7777
